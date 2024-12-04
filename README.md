@@ -1,4 +1,8 @@
 # FACE DETECTION ATTENDANCE SYSTEM
+
+![FDAS](https://github.com/user-attachments/assets/eb2c158a-598e-4a51-8640-272b0d57b45b)
+
+
 # Goal of the Project:
 Maintaining attendance is crucial for evaluating the performance of students and employees. Traditionally, attendance was recorded manually on registers or sheets, which was time-consuming and inefficient. A **Face Recognition Attendance System** streamlines this process by capturing user images and storing them in a database. When a student or employee appears in front of the camera, the system verifies their face against the saved records. If a match is found, their attendance is automatically marked, making the process faster and more accurate.
 
